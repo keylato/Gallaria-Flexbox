@@ -1,0 +1,22 @@
+.imagen{
+    width: 300px;
+    height: 300px;
+}
+.img-container{
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+
+.see-more{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -24px;
+    margin: auto;
+}
+.button-image-container{
+    position: relative;
+    /* display: flex; */
+}
